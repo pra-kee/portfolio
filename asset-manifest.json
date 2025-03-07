@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/prakash/static/css/main.1a83d901.css",
-    "main.js": "/prakash/static/js/main.b3466aa3.js",
-    "static/media/People using online payment mobile app.jpg": "/prakash/static/media/People using online payment mobile app.c13535a52d6c9a11d863.jpg",
-    "static/media/about.png": "/prakash/static/media/about.619ff0b319a55d0c05b1.png",
-    "static/media/hero.png": "/prakash/static/media/hero.f14f30c6d01a97df04f6.png",
-    "static/media/resume.jpg": "/prakash/static/media/resume.40d9ec3d0701d254f50f.jpg",
-    "static/media/food-ecommerce.jpg": "/prakash/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
-    "static/media/website-blog.jpg": "/prakash/static/media/website-blog.34169abf2d417858685b.jpg",
-    "index.html": "/prakash/index.html",
-    "main.1a83d901.css.map": "/prakash/static/css/main.1a83d901.css.map",
-    "main.b3466aa3.js.map": "/prakash/static/js/main.b3466aa3.js.map"
+    "main.css": "/portfolio/static/css/main.1a83d901.css",
+    "main.js": "/portfolio/static/js/main.e423725a.js",
+    "static/media/People using online payment mobile app.jpg": "/portfolio/static/media/People using online payment mobile app.c13535a52d6c9a11d863.jpg",
+    "static/media/about.png": "/portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/food-ecommerce.jpg": "/portfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/website-blog.jpg": "/portfolio/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.1a83d901.css.map": "/portfolio/static/css/main.1a83d901.css.map",
+    "main.e423725a.js.map": "/portfolio/static/js/main.e423725a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a83d901.css",
-    "static/js/main.b3466aa3.js"
+    "static/js/main.e423725a.js"
   ]
 }
