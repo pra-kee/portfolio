@@ -13,7 +13,7 @@ export default function Projects() {
             } ,
             {
                 image: websiteImg2,
-                description: 'Food Ecommerce website like Swiggy, Built with Angular & .Net',
+                description: 'Food Ecommerce website like Swiggy, Built with React js & .Net',
                 link: 'https://prakash-pk.web.app'
             }/*,
             {
