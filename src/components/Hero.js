@@ -34,7 +34,7 @@ export default function Hero() {
 
                 <div className='flex flex-col justify-center text-black'>
                     <h1 className='text-4xl border-b-4 border-primary mb-5 w-[140px] font-bold'></h1>
-                    <p className='pb-5'><a className='bg-neutral-400 hover:bg-neutral-500 px-5 py-2 font-bold border-2 border-white rounded' href="/Prakash_B.SC.CS_2024_CGPA-6.7.pdf" download="Prakash_Resume.pdf"> Download CV  📄</a> 
+                    <p className='pb-5'><a className='bg-neutral-400 hover:bg-neutral-500 px-5 py-2 font-bold border-2 border-white rounded' href="/files/Prakash_B.SC.CS_2024_CGPA-6.7.pdf" download="Prakash_Resume.pdf"> Download CV  📄</a> 
                     </p>
             </div>
 
