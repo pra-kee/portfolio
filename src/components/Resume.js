@@ -2,11 +2,11 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'http://localhost:3000/files/Prakash_Resume.pdf'
+        link: '/files/Prakash_Resume.pdf'
     }
     const forceDownload = () =>{
         const link = document.createElement("a");
-        link.href = "http://localhost:3000/files/Prakash_Resume.pdf";
+        link.href = "/files/Prakash_Resume.pdf";
         link.setAttribute("download","Prakash_Resume.pdf");
         document.body.appendChild(link);
         link.click();
