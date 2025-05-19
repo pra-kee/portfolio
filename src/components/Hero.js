@@ -1,7 +1,6 @@
 import HeroImg from '../assets/hero.png';
 import {  AiOutlineFacebook, AiOutlineLinkedin, AiOutlineInstagram ,AiOutlineGithub} from "react-icons/ai";
 import Typerwriter from "typewriter-effect";
-import resume from '../assets/files/Prakash_B.SC.CS_2024_CGPA-6.7.pdf'
 
 export default function Hero() {
     const config  = {
@@ -35,7 +34,8 @@ export default function Hero() {
 
                 <div className='flex flex-col justify-center text-black'>
                     <h1 className='text-4xl border-b-4 border-primary mb-5 w-[140px] font-bold'></h1>
-                    <p className='pb-5'><a className='bg-neutral-400 hover:bg-neutral-500 px-5 py-2 font-bold border-2 border-white rounded' href={resume} download="Prakash_Resume.pdf"> Download CV  📄</a> 
+                    <p className='pb-5'><a className='bg-neutral-400 hover:bg-neutral-500 px-5 py-2 font-bold border-2 border-white rounded' href={`${process.env.PUBLIC_URL}/Prakash_Resume.pdf`} download rel='noopener noreferrer' >  Download 📄</a> 
+
                     </p>
             </div>
 
